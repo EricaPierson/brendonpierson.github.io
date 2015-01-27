@@ -1,3 +1,19 @@
-header {
-	color: 000000;
+
+video#bgvid {
+position: fixed; right: 0; bottom: 0;
+min-width: 100%; min-height: 100%;
+width: auto; height: auto; z-index: -1;
+background: url(../img/lillyNight.jpg) no-repeat;
+background-size: cover;
+}
+
+.jumbotron {
+	opacity: 0.1;
+	color: #000000;
+	text-align: center;
+}
+
+#connections{
+	font-size: 1.5em;
+	margin-bottom: 5%;
 }
