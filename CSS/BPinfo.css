@@ -4,15 +4,11 @@
 	opacity: 0.1;
 	color: #000000;
 	text-align: center;
-	z-index: 10;
 }
 
 #connections{
 	font-size: 1.5em;
 	margin-bottom: 5%;
-	z-index: 10;
 }
 
-#vid{
-	z-index:-111;
-}
+
