@@ -5,4 +5,3 @@ $(document).ready(function(){
     $(".jumbotron").css("opacity",".1");
   });
 })
-
